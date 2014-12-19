@@ -5,6 +5,6 @@
 </head>
 <body>
     <img src="images/kaart.jpg" border="1" />
-    <p><strong>Roderik</strong></p>
+    <p><strong><?php echo $_GET["mdw"]; ?></strong></p>
 </body>
 </html>
